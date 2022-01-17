@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FlynnK12
+- 👋 Hi, I’m Trajano
 - 👀 I’m interested in developing AI and machine learning apps 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking forward to collaborating on information management projects
